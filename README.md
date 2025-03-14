@@ -3,6 +3,10 @@
 ## 📌 Project Overview  
 This project applies K-Means clustering to segment customers based on various demographic and behavioral attributes. The goal is to identify distinct groups and generate business insights for targeted marketing strategies.  
 
+## How to Run  
+- Open the latest version of the project in **NBViewer**:  
+  [View in NBViewer](https://nbviewer.org/github/dimitar-m/credit-card-customer-segmentation/blob/master/credit-card-customer-segmentation.ipynb)
+  
 ## 🛠 Methods and Techniques  
 - **Data Preprocessing:** Cleaning and transforming data for clustering.  
 - **Exploratory Data Analysis:** Understanding variable distributions and relationships.  
